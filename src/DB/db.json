@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 25.99,
+    "stock": 120,
+    "brand": "Logitech"
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 79.99,
+    "stock": 75,
+    "brand": "Redragon"
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "category": "Audio",
+    "price": 45.5,
+    "stock": 50,
+    "brand": "JBL"
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "category": "Wearables",
+    "price": 149.99,
+    "stock": 30,
+    "brand": "Samsung"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Headset",
+    "category": "Gaming",
+    "price": 59.99,
+    "stock": 40,
+    "brand": "HyperX"
+  },
+  {
+    "id": 6,
+    "name": "USB-C Charger",
+    "category": "Accessories",
+    "price": 19.99,
+    "stock": 200,
+    "brand": "Anker"
+  },
+  {
+    "id": 7,
+    "name": "Laptop Stand",
+    "category": "Office",
+    "price": 34.99,
+    "stock": 65,
+    "brand": "Nulaxy"
+  },
+  {
+    "id": 8,
+    "name": "External SSD 1TB",
+    "category": "Storage",
+    "price": 119.99,
+    "stock": 25,
+    "brand": "Samsung"
+  },
+  {
+    "id": 9,
+    "name": "Webcam HD",
+    "category": "Video",
+    "price": 69.99,
+    "stock": 55,
+    "brand": "Logitech"
+  },
+  {
+    "id": 10,
+    "name": "Portable Power Bank",
+    "category": "Mobile Accessories",
+    "price": 39.99,
+    "stock": 90,
+    "brand": "Xiaomi"
+  },
+  {
+    "id": 11,
+    "name": "Cooling fan",
+    "category": "Electronics",
+    "price": 15,
+    "stock": 5,
+    "brand": "Logitech"
+  },
+  {
+    "name": "Motherboard",
+    "category": "Electronics",
+    "price": 20,
+    "stock": 10,
+    "brand": "Logitech",
+    "id": 12
+  }
+]
